@@ -1,5 +1,7 @@
 # dining-philosophers-deadlock
 
+[![Build Status](https://travis-ci.org/shadow-stranger/dining-philosophers-deadlock.svg?branch=master)](https://travis-ci.org/shadow-stranger/dining-philosophers-deadlock)
+
 This is a solution for classic dining philosophers problem
 
 ## Problem Statement
