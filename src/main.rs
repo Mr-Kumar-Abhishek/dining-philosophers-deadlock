@@ -27,9 +27,15 @@ fn main(){
 		Philosopher::new("Vacaspati Misra"),
 		Philosopher::new("Adi Shankra"),
 	];
+	
+	let handle: Vec<_> = philosophers.into_iter().map(|p| {
+		thread::spawn(move || {
+			p.eat();
+		})
+	}).collect();
 
-	for p in &philosophers {
-		p.eat();
+	for h in handle {
+		h.join().unwrap();
 	}
 }
 
