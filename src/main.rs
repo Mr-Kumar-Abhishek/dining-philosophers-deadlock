@@ -1,4 +1,4 @@
 fn main(){
-	println!("this is a compile test")
+	println!("this is a compile test");
 }
 
