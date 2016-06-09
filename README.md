@@ -20,7 +20,7 @@ hungry they would go the dining room sit down on their own chairs and
 plunged into the spaghetti. But such as the nature of the shaghetti ,
 that a second fork was required to carry it to the mouth. 
 The philosopher therefore also had to pick up thefork on his right.
-When the philosoher was finished he would put down both of his forks,
+When the philosopher was finished he would put down both of his forks,
 get up from his chair and continue thinking. Obviously, a fork could 
 be used by only one philosopher at a time. If other philosophers want
 it they had to wait until the fork is available again.
